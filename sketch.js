@@ -496,7 +496,7 @@ function Dx1_3 () {
  beginShape();
   vertex(-135, 0);
   vertex(-90, 0);
- endShape(CLOSE);
+ endShape();
  pop()
 }
 
