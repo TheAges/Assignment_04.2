@@ -53,7 +53,7 @@ function draw() {
 
 function Sx1 () {
  if (hour()>19) {Sx1_2 ()}
- else if (hour()>10) {Sx1_1 ()}
+ else if (hour()>9) {Sx1_1 ()}
  else {Sx1_0 ()}
 }
 
