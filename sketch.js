@@ -180,7 +180,7 @@ function Gu1 () {
  if (day()>29) {Gu1_3 ()}
  else if (day()>19) {Gu1_2 ()}
  else if (day()>9) {Gu1_1 ()}
- else {Sx1_0 ()}
+ else {Gu1_0 ()}
 }
 
 function Gu2 () {
